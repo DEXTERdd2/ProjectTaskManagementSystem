@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Domain\\ProjectManagementSystem.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Application\\ProjectManagementSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Application\\ProjectManagementSystem.Application.csproj",
+        "projectName": "ProjectManagementSystem.Application",
+        "projectPath": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Application\\ProjectManagementSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.136\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Domain\\ProjectManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Domain\\ProjectManagementSystem.Domain.csproj",
+        "projectName": "ProjectManagementSystem.Domain",
+        "projectPath": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Domain\\ProjectManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Application\\ProjectManagementSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectTaskManagementSystem\\ProjectManagementSystem.Application\\ProjectManagementSystem.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.136\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
